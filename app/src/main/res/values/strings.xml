@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Resep Masakan</string>
+    <string name="bahan">Bahan - Bumbu : </string>
+    <string name="cara">Cara Membuat : </string>
+    <string-array name="judul_resep">
+        <item>"Krengseng Daging Sapi"</item>
+        <item>"Tongseng Sapi Pedas"</item>
+        <item>"Pindang Serani"</item>
+        <item>"Usus Bumbu Bacem"</item>
+        <item>"Tongseng Ayam"</item>
+        <item>"Tongseng Daging Tanpa Santan"</item>
+        <item>"Lodeh Kacang Tolo"</item>
+        <item>"Lodeh Labu Siam"</item>
+
+
+    </string-array>
+    <string-array name="keterangan_resep">
+        <item>"Menu asli nusantara dengan kuah kental serta campuran petis udang dan kecap manis sebagai bumbu khasnya bisa dikombinasikan dengan rasa pedas."</item>
+        <item>"Masakan tongseng merupakan salah satu jenis masakan berkuah yang sangat lezat dana menyegarkan"</item>
+        <item>"Pindang Serani ini memiliki cita rasa yang unik dan khas. Rasa pedas dan gurih dari kuah Pindang Serani ini sangat terasa saat menyantapnya."</item>
+        <item>"Pada umumnya, bacem selalu identic dengan temped dan ayam. Namun kali ini berbeda karena makanan yang dibuat bacem adalah usus"</item>
+        <item>"Resep masakan ini cocok untuk anda yang bermasalah dengan konsumsi makanan yang bersantan."</item>
+        <item>"Cocok bagi anda yang tidak terlalu menyukai hidangan daging kambing karena aromanya yang terlalu kuat dan lain sebagainya."</item>
+        <item>"Sayur berkuah santan nan gurih ini selain pas dinikmati dengan sepiring nasi putih hangat juga dapat meyajikannya dengan potongan ketupat."</item>
+        <item>"Selain nikmat ketika disantap, sayur yang satu ini juga pastinya memiliki banyak manfaat untuk kesehatan tubuh."</item>
+
+    </string-array>
+
+    <string-array name="detail_resep">
+        <item>
+            500 gr daging sapi, rebus sampai matang kemudian iris2\n
+            200 ml kaldu sapi/ sesuai selera\n
+            1 batang serai, memarkan\n
+            1 sdm petis udang\n
+            1 sdm gula merah\n
+            5 sdm kecap manis\n
+            Bumbu halus:\n
+            6 siung bamer\n
+            6 siung baput\n
+            3 butir kemiri\n
+            Seruas jahe\n
+            3 buah cabe merah besar\n
+            1/2 sdt merica \n
+        </item>
+        <item>
+            250 gr daging sapi (potong dadu)\n
+            5 butir bawang merah (iris)\n
+            2 butir bawang putih (iris)\n
+            8 cabe rawit merah (sesuai selera)\n
+            1 buah tomat\n
+            1/4 buah kol (sesuai selera)\n
+            daun bawang (potong kasar)\n
+            65 ml santan kara (segitiga)\n
+            1 bungkus bumbu gulai \n
+            secukupnya kecap manis\n
+            secukupnya gula, garam \n
+        </item>
+        <item>
+            7 ekor ikan petruk ukuran sedang\n
+            2 L air\n
+            3 buah wortel\n
+            2 buah sawi\n
+            8 siung bawang merah\n
+            8 siung bawang putih\n
+            1 jari kunir\n
+            10 buah cabai merah keriting\n
+            5 buah cabai setan\n
+            1 sdm merica\n
+            1 sdm ketumbar\n
+            5 buah tomat hijau\n
+            5 batang serai\n
+            3 lembar daun salam\n
+            4 ruas lengkuas d geprek\n
+            2 sdm garam\n
+            2 sdm gula\n
+            1 sdm penyedap rasa\n
+        </item>
+        <item>
+            1/4 Kg usus ayam\n
+            5 Bawang merah\n
+            3 Bawang putih\n
+            3 Cabe rawit\n
+            1 Kemiri\n
+            Secukupnya ketumbar\n
+            Secukupnya merica\n
+            Lengkuas\n
+            Serai\n
+            Daun jeruk\n
+            Daun salam\n
+            Garam\n
+            Gula jawa\n
+            Kecap\n
+            Minyak untuk menumis\n
+        </item>
+        <item>
+            500 gr ayam pejantan \n
+            1 mangkuk kol iris\n
+            1/2 buah tomat\n
+            2 batang daun bawang\n
+            3 buah cabe atau sesuai selera\n
+            Gula merah secukupynya\n
+            5 sdm kecap manis\n
+            Garam\n
+            Kaldu jamur\n
+            1 sdm minyak sayur utk menumis\n
+            Bumbu yang dihaluskan :\n
+            6 siung bawang merah\n
+            4 siung bawang putih\n
+            2 cm jahe\n
+            5 cm lengkuas\n
+            5 lembar daun jeruk\n
+        </item>
+        <item>
+            500 gr daging sapi\n
+            3 siung bawang merah\n
+            4 siung bawang putih\n
+            2 buah tomat\n
+            5 buah cabai\n
+            1 buah sereh\n
+            2 lembar daun jeruk\n
+            2 lembar daun salam\n
+            1 ruas lengkuas\n
+            Sesuai selera kubis\n
+            1 batang daun bawang\n
+            Secukupnya minyak\n
+            Secukupnya garam\n
+            Secukupnya gula\n
+            Secukupnya lada\n
+            Secukupnya kecap manis\n
+            Secukupnya air\n
+        </item>
+        <item>
+            500 gr Kacang tolo/ loto/ tunggak\n
+            250 gr Nangka muda/ tewel\n
+            500 ml Santan\n
+            5 bh Bawang merah\n
+            6 bh Bawang putih\n
+            Lengkuas\n
+            Daun salam\n
+            Cabai rawit secukupnya\n
+            secukupnya Garam\n
+            secukupnya Gula pasir\n
+            Tempe basi \n
+        </item>
+        <item>
+            2 buah labu siam, potong2 dan iris memanjang\n
+            15 buah cabai merah utuh\n
+            700 cc santan\n
+            2 lbr daun salam\n
+            2 cm lengkuas\n
+            Bumbu yg dihaluskan:\n
+            3 siung bawang putih\n
+            4 siung bawang merah\n
+            1/2 sdt ketumbar\n
+            2 buah kemiri\n
+            1/2 sdt masing2 gula, garam dan bumbu penyedap\n
+            1 sdm minyak goreng utk menumis \n
+        </item>
+
+    </string-array>
+
+    <string-array name="cara_resep">
+        <item>
+            1.Tumis bumbu halus, serai, kecap manis, petis udang dan gula merah.\n2.Tambahkan kaldu sapi. Aduk sampai rata\n3.Masukkan daging sapi, aduk rata, masak sampai mengental.. koreksi rasa\n
+        </item>
+        <item>
+            1.Tumis irisan bawang merah dan bawang putih sampai harum. Masukan irisan cabe rawit.\n2.Masukan potongan daging, tambahkan air, masak sampai daging empuk.\n3.Setelah empuk, masukan bumbu gulai, masak sampai mendidih.\n4.Setelah mendidih, masukan santan. Aduk rata.\n5.Bumbu dengan gula, garam, kecap. Koreksi rasa.\n6.Terakhir, masukan tomat, kol dan daun bawang.\n7.Tongseng siap dinikmati dengan nasi panas. \n
+        </item>
+        <item>
+            1.Haluskan bawang merah, putih, kunir, merica, ketumbar\n2.Panaskan air sampai mendidih\n3.Masukkan bumbu yang di haluskan dan cabai yang sudah di iris iris\n4. Tambahkan gula garam dan penyedap rasa\n5.Masukan wortel dan tomat\n6.Setelah 5 menit,masukkqn ikan\n7.Koreksi rasa\n8.Masak kurang lebih 15 menit. Siap di sajikan\n
+        </item>
+        <item>
+            1.Cuci bersih usus ayam, pastikan bersih ya dr sisa kotoran. Yg aku beli td emang udah dibersihin jd sampai rumah tinggal nyucinya aja sampai bersih.\n2.Haluskan bawang merah, bawang putih, cabe, kemiri, ketumbar, merica.\n3.Geprek lengkuas dan serai.\n4.Tumis bumbu halus sampai wangi, masukkan garam, lengkuas, serai, daun jeruk dan daun salam.\n5.Masukkan usus dan tumis sebentar sampai layu.\n6.Tambahkan air secukupnya, ungkep sampai empuk.\n7.Terakhir masukkan gula jawa dan kecap. Tes rasa. Dan ungkep lagi biar kecap merasuk dengan sempurna.\n
+        </item>
+        <item>
+            1.Bersihkan ayam, potong sesuai selera. Kalau untuk tongseng, potongan ayam agak kecil-kecil. Dari 1 dada ayam bisa dipotong jadi 4 bagian2.Tumis bumbu halus, masukkan daun salam dan serai. Tambahkan air sedikit. Tumis hingga harum dan mengental3.Masukkan ayam kemudian gula merah. Aduk hingga bumbu rata4.Jika ayam sudah empuk, masukkan kol, daun bawang, irisan cabe dan tomat. Jangan lupa kecap manisnya...5.Terakhir masukkan garam. Garam dimasukkan terakhir agar masakan lebih sehat Aduk rata.6.Tongseng siap dihidangkan...
+        </item>
+        <item>
+            1.Cuci daging kemudian rebus sampai matang, jangan buang air rebusan untuk campuran, sisihkan\n2.Iris bawang merah, bawang putih, cabai dan daun bawang; geprek lengkuas dan sereh; potong kubis sesuai selera\n3.Panaskan wajan, masukkan minyak, tumis bawang merah kemudian bawang putih dan cabai, setelah agak layu masukkan sereh, daun jeruk dan daun salam.\n4.Tumis hingga layu dan aroma bumbu keluar. Kemudian masukkan air kaldu rebusan daging, tambahkan air sedikit. Masukkan garam, gula dan lada, tunggu hingga mendidih.\n5.Setelah mendidih masukkan daging, tomat dan kubis. \n6.Tambahkan kecap manis. Terakhir masukkan potongan daun bawang. Tunggu hingga mendidih.\n7.Setelah mendidih koreksi rasa dan tongseng pun siap dihidangkan.\n
+        </item>
+        <item>
+            1.Pastikan semua bahan utama dan bumbu telah dicuci bersih\n2.Rebus kacang tolo hingga lunak. Cek air, jika asat tambahkan air lagi.\n3.Goreng sebentar bumbu: bawang putih, bawang merah, cabai. Lalu haluskan.\n4.Masukkan nangka muda kedalam rebusan kacang tolo. \n5.Tambahkan santan, bumbu yang sudah dihaluskan, lengkuas geprek, daun salam, garam dan gula secukupnya.\n6.Tunggu sampai matang. Angkat.\n
+        </item>
+        <item>
+            1.Panaskan minyak goreng dan tumis bumbu halus, masukkan lengkuas dan daun salam, aduk rata hingga tercium aroma bumbu\n2.Masukkan santan, kemudian irisan labu siam dan cabai, aduk rata dan biarkan mendidih sampai labu matang.\n
+        </item>
+
+    </string-array>
+</resources>
